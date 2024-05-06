@@ -42,7 +42,7 @@ Product Performance visualisation shows products with their corressponding reven
 
 
 ## INTERACTIVITY 
-😃You can interact with the report ![](https://app.powerbi.com/view?r=eyJrIjoiZDcwY2EzMzQtNDNmNS00Nzk4LTgxMDAtMTQyMjdiZGVmMzA5IiwidCI6IjU0MzUwMDM0LWVhYTMtNGMyZC1hYmZhLTY0MGRmMDYyNjNhOCJ9)
+😃You can interact with the report [HERE](https://app.powerbi.com/view?r=eyJrIjoiZDcwY2EzMzQtNDNmNS00Nzk4LTgxMDAtMTQyMjdiZGVmMzA5IiwidCI6IjU0MzUwMDM0LWVhYTMtNGMyZC1hYmZhLTY0MGRmMDYyNjNhOCJ9)
 
 Users can filter data by product category, country, date to focus on specific aspects of the sales performance.
 
