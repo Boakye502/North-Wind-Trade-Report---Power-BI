@@ -59,7 +59,7 @@ Users can filter data by product category, country, date to focus on specific as
 The North wind Traders Sales Analysis project provides valuable insights into sales performance, product performance enabling informed decision-making and strategic planning for business growth and success.
 Management should focus more on those products that contribute to high sales and also how to increase sales revenue
 
-
+## THANK YOU
 
 ![](THANKYOU.png)
 
