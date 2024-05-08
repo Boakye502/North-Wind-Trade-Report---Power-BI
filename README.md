@@ -30,6 +30,8 @@ The model is a star schema
 There are a 4-dimension tables. The tables are joined to the table with a one-to-many relationship on the primary key.
 
 ## VISUALISATION - TRADER REPORT
+
+Data visualization is essential, as the grahical representation of data sets provides context to our data and allows us to visualze trends and patterns much more easily. These dashboards will provide essential KPIs, charts and tables which measure the progress of the business in generating sales and revenue.
 ![](north_traders_report.png)
 
 The visualisation shows charts and table that include,total revenue by product category, total revenue by location, total quantity by city, Top 5 performing customers and companies.
